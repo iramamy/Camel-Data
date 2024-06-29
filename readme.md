@@ -1,7 +1,7 @@
 # Data for Camel Detection and Counting with YOLOv8
 
 # Code
-The code implementation of this data can be found [here](https://github.com/iramamy/Camel-tracking/blob/main/Camel-track-count.ipynb).
+The code implementation of this data can be found [here](https://github.com/iramamy/Camel-tracking).
 
 # Data credit:
 
