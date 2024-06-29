@@ -1,0 +1,7 @@
+train: Train/images
+val: Talid/images
+test: Test/images
+
+nc: 1
+names: 
+    - Camel
