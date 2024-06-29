@@ -1,5 +1,5 @@
 train: Train/images
-val: Talid/images
+val: Valid/images
 test: Test/images
 
 nc: 1
